@@ -90,8 +90,8 @@ width: 10%
     display: flex;
 }
 .flexible-container-3 img{
-    width: 330px;
+    width: 330px;  
 }
-.appearance{
-    text-decoration: top;
+.footer{
+    color: greenyellow;
 }
