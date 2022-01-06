@@ -86,3 +86,12 @@ width: 10%
     width: 50%;
     padding-right: 10px;
 }
+.flexible-container-3{
+    display: flex;
+}
+.flexible-container-3 img{
+    width: 330px;
+}
+.appearance{
+    text-decoration: top;
+}
